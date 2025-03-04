@@ -3,14 +3,14 @@
 ## 📖 Overview  
 This project analyses the impact of discount strategies on sales volume and customer satisfaction. While discounts can drive sales, excessive reductions may lower perceived quality and affect customer ratings. This study aims to uncover key trends and provide actionable recommendations for optimising discount strategies.  
 
-## 🛠 Tools Used  
-- Python 🐍  
-- Pandas & NumPy  
-- Matplotlib & Seaborn 📊  
-- Scikit-learn 🤖  
-- SQL 🗄️  
-- NLTK 
-- Tableau 📊  
+## 🛠 Tools & Libraries Used  
+- Programming Language: Python 🐍  
+- Libraries:
+   - Pandas & NumPy  
+   - Matplotlib & Seaborn 📊  
+   - Scikit-learn 🤖   
+   - NLTK
+   - Statsmodel
 
 ## 📌 Key Findings  
 - Discounts between **40-60%** perform best in driving sales.  
