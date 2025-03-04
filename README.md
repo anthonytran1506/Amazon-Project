@@ -1,4 +1,4 @@
-# 📊 IMPACTS: Discount vs. Sales & Customer Satisfaction  
+# 📊 Impact of Discounts on Amazon Sales & Customer Analysis
 
 ## 📖 Overview  
 This project analyses the impact of discount strategies on sales volume and customer satisfaction. While discounts can drive sales, excessive reductions may lower perceived quality and affect customer ratings. This study aims to uncover key trends and provide actionable recommendations for optimising discount strategies.  
