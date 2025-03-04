@@ -48,8 +48,8 @@ This project analyses the impact of discount strategies on sales volume and cust
    ```  
 
 ## 📎 References  
-- Data sourced from Amazon sales records.  
-- Visualisations created using Python & Tableau.  
+- Data sourced from Kaggle: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+- Visualisations created using Python.  
 
 ---  
 Let me know if you need further refinements! 🚀
