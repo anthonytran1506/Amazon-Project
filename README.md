@@ -35,6 +35,7 @@ Figure 2. Relationship Between Discount Categories and Ratings
 Figure 3. Correlation Heatmap: Relationships between Ratings and other Factors
 
 3. **High-Ticket Items** – Pricing trends and discount patterns.
+   
    ![image](https://github.com/user-attachments/assets/5510e324-612d-4cdf-a9a9-230f1d77f374)
    
 Figure 4. Scatter Plot of Log Actual Price vs. Discount Percentage
