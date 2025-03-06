@@ -20,11 +20,16 @@ This project analyses the impact of discount strategies on sales volume and cust
 - Customer feedback highlights **quality concerns over pricing strategies**.  
 
 ## 🔍 Analysis Sections  
-1. **Discount Effectiveness** – Relationship between discount rates and sales.  
-2. **Customer Ratings** – Impact of discounts on perceived product quality.  
-3. **High-Ticket Items** – Pricing trends and discount patterns.  
-4. **Category-Specific Insights** – Differences in customer response across product types.  
-5. **Customer Feedback** – Common complaints and sentiment analysis.  
+1. **Discount Effectiveness** – Relationship between discount rates and sales.
+   ![image](https://github.com/user-attachments/assets/9ee50b72-df02-4eda-8af5-a0f581f37f92)
+   Figure 1. Impact of Discount on Sales Volumes
+   ![image](https://github.com/user-attachments/assets/1cafa5c2-41e5-46fe-9dfd-3009d1df3ea2)
+   Figure 2. Relationship Between Discount Categories and Ratings
+   
+3. **Customer Ratings** – Impact of discounts on perceived product quality.  
+4. **High-Ticket Items** – Pricing trends and discount patterns.  
+5. **Category-Specific Insights** – Differences in customer response across product types.  
+6. **Customer Feedback** – Common complaints and sentiment analysis.
 
 ## 📢 Recommendations  
 - **Optimise Discount Strategies**: Use dynamic pricing, anchor pricing, and personalised discounts.  
