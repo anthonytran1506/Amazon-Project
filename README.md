@@ -63,21 +63,6 @@ Figure 7. Most Frequent Phrases in Low-Rated Reviews
 - **Improve Customer Engagement**: Encourage reviews and respond to feedback.  
 - **Enhance Product Quality**: Address common complaints to build long-term customer trust.  
 
-## 📥 Installation & Usage  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis:  
-   ```bash
-   python analysis.py
-   ```  
-
 ## 📎 References  
 - Data sourced from Kaggle: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 - Visualisations created using Python.  
